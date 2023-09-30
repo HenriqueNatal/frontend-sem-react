@@ -1,0 +1,19 @@
+.navbar-brand{
+    margin-left: 25px;
+    font-style: oblique;
+    font-weight: 900;
+}
+
+.nav-link{
+    font-style: oblique;
+    font-weight: 400;
+}
+
+.navbar-nav{
+    margin-left: 80px;
+    font-size: larger;
+}
+
+.container{
+    background-color: aquamarine;
+}
